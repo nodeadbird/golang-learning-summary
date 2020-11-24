@@ -1,6 +1,13 @@
 # golang学习总结
 
-#### golang设计模式
+##golang理论
+
+* golang gc
+  * [gc流程](gc/gc_flow.md)
+  * [gc垃圾回收机制](gc/gc垃圾回收机制.md)
+  * [gc优化思路以及实例分析](gc/gc优化思路以及实例分析.md)
+
+##golang设计模式
 
 * [创建型模式](golang_design_pattern/creation_pattern.md)
   * [简单工厂模式](golang_design_pattern/01_simple_factory.md)
