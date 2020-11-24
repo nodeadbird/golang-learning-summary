@@ -3,9 +3,9 @@
 ## golang理论
 
 * golang gc
-  * [gc流程](gc/gc_flow.md)
-  * [gc垃圾回收机制](gc/gc垃圾回收机制.md)
-  * [gc优化思路以及实例分析](gc/gc优化思路以及实例分析.md)
+  * [gc流程](theory/gc/gc_flow.md)
+  * [gc垃圾回收机制](theory/gc/gc垃圾回收机制.md)
+  * [gc优化思路以及实例分析](theory/gc/gc优化思路以及实例分析.md)
 
 ## golang设计模式
 
