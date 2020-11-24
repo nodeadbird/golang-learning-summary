@@ -6,6 +6,9 @@
   * [gc流程](theory/gc/gc_flow.md)
   * [gc垃圾回收机制](theory/gc/gc垃圾回收机制.md)
   * [gc优化思路以及实例分析](theory/gc/gc优化思路以及实例分析.md)
+* 性能优化
+  * [性能优化总结](theory/performance/性能优化总结.md)
+  * [程序运行加速](theory/performance/程序运行加速.md)
 
 ## golang设计模式
 
