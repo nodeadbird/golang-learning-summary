@@ -28,4 +28,4 @@
   - [备忘录模式](golang_design_pattern/28_memento.md)
   - [解释器模式](golang_design_pattern/29_interpreter.md)
   - [访问者模式](golang_design_pattern/210_visitor.md)
-  - [职责链模式](
+  - [职责链模式](golang_design_pattern/211_chain.md)
